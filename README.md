@@ -50,7 +50,7 @@ AI, Python, Programming
   
 ## Feedback
 
-If you have any feedback, please reach out to us at rishiranjanjha07@gmail.com
+If you have any feedback, please reach out to me at rishiranjanjha07@gmail.com
 
   
 ## Acknowledgements
