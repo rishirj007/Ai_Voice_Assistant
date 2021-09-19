@@ -7,7 +7,7 @@
   https://www.linkedin.com/in/rishi-ranjan-jha-07/
 # Jarvis Voice Assistant
 
-Hey There! This is a AI Voice Assistant which was made during my Artificial course from IBM and this assistant was made using Python and its various modules and libraries like speechrecognition, pyttsx3,osmodules, etc...
+Hey There! This is a AI Voice Assistant which i made in (jun-jul 21) during my Artificial course from IBM and this assistant was made using Python and its various modules and libraries like speechrecognition, pyttsx3,osmodules, etc...
 
 
 ![Logo](https://cdnb.artstation.com/p/assets/images/images/004/350/973/large/fariz-abdullah-qq.jpg?1482821904&dl=1)
